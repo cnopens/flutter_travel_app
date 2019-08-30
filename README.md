@@ -6,9 +6,7 @@ A new Flutter project.
 
 #### android
 
-![](./screenshots/Screenshot_1567150496.png)
-
-<figure>
+<figure class="half">
     <img src="./screenshots/Screenshot_1567150496.png" width="49%" align=left>
     <img src="./screenshots/Screenshot_1567151195.png" width="49%" align=right>
 </figure>
