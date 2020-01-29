@@ -8,9 +8,9 @@ Design:https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experien
 
 #### android
 
-![android截图](./screenshots/home_screen.png)
+<img src="./screenshots/home_screen.png" width="50%" height="50%">
 
-![android截图](./screenshots/destination_screen.png)
+<img src="./screenshots/destination_screen.png" width="50%" height="50%">
 
 ## Getting Started
 
