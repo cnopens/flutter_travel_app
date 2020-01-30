@@ -4,13 +4,11 @@
 
 A new Flutter project.
 
-Design:https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
-
+Design：https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
 | HomeScreen                                   | DestinationScreen                                          |
 | -------------------------------------------- | --------------------------------------------------- |
 | ![Screenshot](./screenshots/home_screen.jpg) | ![Screenshot](./screenshots/destination_screen.jpg) |
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
