@@ -6,11 +6,10 @@ A new Flutter project.
 
 Design:https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
-#### android
 
-![android截图](./screenshots/home_screen.png)
-
-![android截图](./screenshots/destination_screen.png)
+| HomeScreen                                   | DestinationScreen                                          |
+| -------------------------------------------- | --------------------------------------------------- |
+| ![Screenshot](./screenshots/home_screen.jpg) | ![Screenshot](./screenshots/destination_screen.jpg) |
 
 ## Getting Started
 
