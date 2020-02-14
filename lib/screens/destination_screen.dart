@@ -191,7 +191,6 @@ class _DestinationScreenState extends State<DestinationScreen> {
                                 children: <Widget>[
                                   Container(
                                     padding: EdgeInsets.all(5.0),
-                                    width: 70.0,
                                     decoration: BoxDecoration(
                                       color: Theme.of(context).accentColor,
                                       borderRadius: BorderRadius.circular(10.0),
@@ -204,7 +203,6 @@ class _DestinationScreenState extends State<DestinationScreen> {
                                   ),
                                   Container(
                                     padding: EdgeInsets.all(5.0),
-                                    width: 70.0,
                                     decoration: BoxDecoration(
                                       color: Theme.of(context).accentColor,
                                       borderRadius: BorderRadius.circular(10.0),
